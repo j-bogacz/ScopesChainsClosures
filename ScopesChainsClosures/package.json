@@ -1,0 +1,10 @@
+{
+  "name": "ScopesChainsClosures",
+  "version": "0.0.0",
+  "description": "ScopesChainsClosures",
+  "main": "app.js",
+  "author": {
+    "name": "Jakub",
+    "email": ""
+  }
+}
